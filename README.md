@@ -1,3 +1,4 @@
+![logo](https://github.com/sahansasindu/sahansasindu/blob/main/bannerimage.jpg)
 <h1 align="center">Hi 👋, I'm Sahan Sasindu</h1>
 <h3 align="center">Undergraduate at the Faculty of Technology</h3>
 
