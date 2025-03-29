@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahan Sasindu</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahansasindu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Spring Boot, Angular**
-- ⚡ Fun fact: *I enjoy coding, problem-solving, and adding a touch of humor to my work! 😄*
+- ⚡ I enjoy coding, problem-solving
 
 ---
 
