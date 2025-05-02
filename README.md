@@ -27,7 +27,7 @@
   <a href="https://www.hackerrank.com/sahansasindu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="mailto:sahansasindu@gmail.com" target="_blank">
+  <a href="mailto:sahansasindu99@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
   <a href="https://wa.me/94761234567" target="_blank">
