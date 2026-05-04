@@ -8,7 +8,7 @@
 ---
 
 - ⚡ I enjoy coding and problem-solving  
-- 🌐 Check out my portfolio: https://portfolio.sahansasindu.me  
+- 🌐 Check out my portfolio: https://sahansasindu.github.io/my_portfolio 
 
 ---
 
